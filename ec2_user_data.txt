@@ -1,0 +1,4 @@
+# Init Amazon Linux 2 AMI instance with golang installed
+yum update
+yum upgrade
+yum install golang -y
